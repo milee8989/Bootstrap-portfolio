@@ -1,0 +1,18 @@
+body{
+    background-image: url("lilypads.png");
+   
+}
+
+/*.container{
+    margin-top: 50px;
+    border: 1px solid #cccccc;
+    } */
+
+.navbar-brand{
+    background-color: #4aaaa5;
+    border:1px solid #dddddd;
+    
+}
+nav{
+    border: 1px solid #cccccc;
+}
