@@ -1,5 +1,5 @@
 body{
-    background-image: url("lilypads.png");
+    background-image: url("img/lilypads.png");
    
 }
 
@@ -9,11 +9,9 @@ body{
     } */
 
 .navbar-brand{
-    background-color: #4aaaa5;
-    border:1px solid #dddddd;
-    width: 150px;
-    height: 50px;
-   
+  font: bold;
+    
+  
     
 }
 nav{
